@@ -46,13 +46,13 @@ Here is how the course grade is determined:
 The course will consist of several teaching methods:
 
 1. Lectures
-2. Programming Exercise (4 MPs)
+2. Programming Exercise (5 MPs)
 3. Final Project and Presentation
 4. Mid-term and Final Exam
 
 ## Lecture Notes
 
-All lecture notes can be found on our [course website](https://ysc2229-website.vercel.app/).
+All lecture notes can be found on Canvas. If you want, you can also [check this out](https://ysc2229-website.vercel.app/).
 
 ## Required Reading List
 
