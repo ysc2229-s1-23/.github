@@ -50,6 +50,10 @@ The course will consist of several teaching methods:
 3. Final Project and Presentation
 4. Mid-term and Final Exam
 
+## Lecture Notes
+
+All lecture notes can be found on our [course website](https://ysc2229-website.vercel.app/).
+
 ## Required Reading List
 
 - Introduction to Algorithms by Thomas Cormen, Charles Leiserson, Ronald Rivest, and Clifford Stein
