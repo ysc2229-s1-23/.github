@@ -15,7 +15,7 @@ Below is the schedule for our course:
 
 | Date | Topics | Notes |
 | --- | --- | --- |
-| Aug. 15 | Introduction | |
+| Aug. 15 | Introduction | MP0 |
 | Aug. 22 | Array, List, Link list | |
 | Aug. 29 | Stacks and Queues, Sorting | MP1 |
 | Sep. 5 | Recursion | |
