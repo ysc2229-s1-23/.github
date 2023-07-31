@@ -35,7 +35,7 @@ Below is the schedule for our course:
 
 Here is how the course grade is determined:
 
-1. Machine Problems (MPs): 40% (4 MPs, each 10%)
+1. Machine Problems (MPs): 40% (5 MPs, each 8%)
 2. Exams: 30% (Mid-term 15% + Final 15%)
 3. Final Project: 20%
 4. Final Project Presentation: 5%
