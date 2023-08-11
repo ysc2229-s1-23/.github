@@ -16,7 +16,7 @@ Below is the schedule for our course:
 | Date | Topics | Notes |
 | --- | --- | --- |
 | Aug. 15 | Introduction | MP0 |
-| Aug. 22 | Array, List, Link list | |
+| Aug. 22 | Array, List, Linked List | |
 | Aug. 29 | Stacks and Queues, Sorting | MP1 |
 | Sep. 5 | Recursion | |
 | Sep. 12 | Sorting | |
@@ -52,7 +52,7 @@ The course will consist of several teaching methods:
 
 ## Lecture Notes
 
-All lecture notes can be found on Canvas. If you want, you can also [check this out](https://ysc2229-website.vercel.app/).
+All lecture notes can be found on Canvas.
 
 ## Required Reading List
 
