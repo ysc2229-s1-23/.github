@@ -17,7 +17,7 @@ Below is the schedule for our course:
 | --- | --- | --- |
 | Aug. 15 | Introduction | MP0 |
 | Aug. 22 | Array, List, Linked List | |
-| Aug. 29 | Stacks and Queues, Sorting | MP1 |
+| Aug. 29 | Stacks and Queues | MP1 |
 | Sep. 5 | Recursion | |
 | Sep. 12 | Sorting | |
 | Sep. 19 | Binary Tree, Search | MP2 |
