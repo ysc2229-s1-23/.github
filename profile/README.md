@@ -13,8 +13,6 @@ By the end of this course, students will be able to:
 
 Below is the schedule for our course:
 
-# Timetable
-
 | Date           | Topics                                                     | Notes                     |
 | -------------- | ---------------------------------------------------------- | ------------------------- |
 | Aug. 16        | Lecture 1: Introduction                                    | MPO                       |
