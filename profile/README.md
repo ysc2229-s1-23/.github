@@ -13,23 +13,24 @@ By the end of this course, students will be able to:
 
 Below is the schedule for our course:
 
-| Date | Topics | Notes |
-| --- | --- | --- |
-| Aug. 15 | Introduction | MP0 |
-| Aug. 22 | Array, List, Linked List | |
-| Aug. 29 | Stacks and Queues | MP1 |
-| Sep. 5 | Recursion | |
-| Sep. 12 | Sorting | |
-| Sep. 19 | Binary Tree, Search | MP2 |
-| Oct. 3 | AVL Trees | |
-| Oct. 10 | Heaps | |
-| Oct. 17 | Graphs | MP3 |
-| Oct. 24 | Graph Traversal | |
-| Oct. 31 | Hashing | |
-| Nov. 7 | Complexity | MP4 |
-| Nov. 14 | Reading week Exam | Final Project Presentation |
-| | No class | |
-| | Final Project Deadline: Nov. 25 | |
+# Timetable
+
+| Date           | Topics                                                     | Notes                     |
+| -------------- | ---------------------------------------------------------- | ------------------------- |
+| Aug. 16        | Lecture 1: Introduction                                    | MPO                       |
+| Aug. 23        | Lecture 2: Array, Stacks, and Queues                       |                           |
+| Aug. 30        | Lecture 3: Link Lists, Recursion                           | MP1 (Release)             |
+| Sept. 6        | Lecture 4: Binary Tree, Binary Search Tree, AVL Tree       |                           |
+| Sep. 13        | Lecture 5: Binary Heaps, Sorting                           |                           |
+| Sep. 20        | Lecture 6: Sorting                                         | MP2                       |
+| Oct. 4         | Lecture 7: Searching, Hashing                              |                           |
+| Oct. 11        | Lecture 8: Searching & Midterm Exam (1.5 hrs)              | Midterm Exam              |
+| Oct. 18        | Lecture 9: Graphs                                          | MP3                       |
+| Oct. 25        | Lecture 10: Graph Traversal                                |                           |
+| Nov. 1         | Lecture 11: Complexity, and P=NP?                          |                           |
+| Nov. 8         | Lecture 12: Algorithms: Greedy Algorithm, Divide and Conquer| MP4                       |
+| Nov. 15 (Final Lecture) | Lecture 13: Dynamic Programming & Final Exam (1.5 hrs) | Final Exam               |
+
 
 ## Assessment Criteria
 
