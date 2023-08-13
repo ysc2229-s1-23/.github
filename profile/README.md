@@ -40,6 +40,22 @@ Here is how the course grade is determined:
 4. Final Project Presentation: 5%
 5. Peer Support: 5%
 
+## Peer Support: 5%
+
+Active engagement is key. **5%** of your grade is based on your participation and contributions.
+
+### GitHub Discussions: Why Participate?
+
+- **Solve Challenges Faster**: Pool collective wisdom. Someone might have the answer you need.
+  
+- **Reinforce Your Learning**: Answering peers' queries helps solidify your grasp on topics.
+  
+- **Stay Updated**: Get valuable insights, resources, and clarifications from active discussions.
+  
+- **Network**: Forge connections. Today's discussion peer might be tomorrow's collaborator.
+
+Remember: quality over quantity. Make your contributions meaningful. Simply responding with "I agree" or "thanks" won't count. Instead, aim for meaningful contributions that add value to the discussion.
+
 ## Modes of Learning & Teaching
 
 The course will consist of several teaching methods:
