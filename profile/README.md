@@ -25,8 +25,8 @@ Below is the schedule for our course:
 | Oct. 11        | Lecture 8: Searching & Midterm Exam (1.5 hrs)              | Midterm Exam              |
 | Oct. 18        | Lecture 9: Graphs                                          | MP3                       |
 | Oct. 25        | Lecture 10: Graph Traversal                                |                           |
-| Nov. 1         | Lecture 11: Complexity, and P=NP?                          |                           |
-| Nov. 8         | Lecture 12: Algorithms: Greedy Algorithm, Divide and Conquer| MP4                       |
+| Nov. 1         | Lecture 11: Complexity, and P=NP?                          | MP4                        |
+| Nov. 8         | Lecture 12: Algorithms: Greedy Algorithm, Divide and Conquer|                        |
 | Nov. 15 (Final Lecture) | Lecture 13: Dynamic Programming & Final Exam (1.5 hrs) | Final Exam               |
 
 
